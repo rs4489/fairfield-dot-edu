@@ -1185,7 +1185,7 @@ table-hover tbody tr.info:hover > td { background-color: #c4e3f3; }
 }
 
 @media screen and (max-width: 915px) {
-	#main-nav { float: none; margin: 50px 0 0 -20px; }
+	#main-nav { float: none; margin: 40px 0 0 -20px; }
 	#main-nav li a { padding: 15px 20px; }
 
 	#search-btn { left: 10px; position: relative; top: 13px; }
