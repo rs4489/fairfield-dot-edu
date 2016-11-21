@@ -720,6 +720,7 @@ table-hover tbody tr.info:hover > td { background-color: #c4e3f3; }
 	#top-nav-container { border-bottom: 1px solid #b00915; overflow: hidden; padding: 15px 0 5px 0; }
 	#top-nav-container ul { margin: 0; }
 	/*#top-nav-container li a { color: #460000; font-size: 12px; text-decoration: none; }*/
+	#top-nav-container li a { color: #000000; font-size: 12px; text-decoration: none; text-shadow: 0px 0px 5px #E61236;}
 	#top-nav-container li a { color: #000000; font-size: 12px; text-decoration: none; text-shadow: 0px 0px 5px #e61236}
 	#top-nav-container li a:hover { color: #fff; }
 
